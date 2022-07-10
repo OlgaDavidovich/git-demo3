@@ -3,3 +3,4 @@
 Не думал, не гадал он
 Такого вот конца
 first commit in feature
+second commit in feature
